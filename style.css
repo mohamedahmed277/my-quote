@@ -1,0 +1,26 @@
+.all{
+    width: 100%;
+}
+.inner{
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+}
+p{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+}
+button{
+    padding: 30px 80px;
+    color: white;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
